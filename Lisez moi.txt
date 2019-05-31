@@ -1,0 +1,7 @@
+Lancer Visual Studio Code
+
+	File -> Open Folder
+	"choisir le folder Labyrinthe"
+
+Depuis le fichier main.java
+cliquer sur "run"
